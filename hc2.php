@@ -59,6 +59,7 @@ while ($filas = mysql_fetch_array($sql)){
         <td >$filas[24]</td>
         <td >$filas[18]</td>
         <td >$filas[12]</td>
+        <td >$filas[13]</td>
 
         </tr> ";
 
